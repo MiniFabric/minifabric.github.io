@@ -10,4 +10,4 @@ layout: default
 
 WIP
 
-Discord: https://discord.gg/MsQdqe52yT
+Discord: [https://discord.gg/MsQdqe52yT](https://discord.gg/MsQdqe52yT)
